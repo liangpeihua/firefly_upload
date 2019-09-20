@@ -14,3 +14,4 @@ makeblock files upload tool
 
 - Example(示例): `python firefly_upload.py -p COM5 -i C:/Users/MBENBEN/Desktop/test/main.py -o /flash/main.py`
 
+- Example(示例) for NovaPi: `python firefly_upload.py -p COM5 -i C:/Users/MBENBEN/Desktop/test/main.py -o /main.py`
